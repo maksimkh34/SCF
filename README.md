@@ -15,3 +15,16 @@ v1:
    >
  >  convertV  (vector) (str<->int)
   
+v2:
+[v1.1]
+> mix
+   >
+>  generaternd
+   >
+>  generate0
+   >
+>  generatesv
+   >
+>  itemswap
+   >
+> [...]  
